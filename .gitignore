@@ -34,3 +34,5 @@ build/
 
 toIgnore
 
+.env
+creds.json
